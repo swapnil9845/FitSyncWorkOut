@@ -1,6 +1,6 @@
-# 🏃‍♂️ FitSync - Your Fitness Tracker
+# 🏃‍♂️ FitSyncWorkOut - Your Fitness Tracker
 
-**FitSync** is a modern fitness tracking Android app designed to monitor and display your running or walking statistics in real-time. Track **distance (KM)**, **calories burned (Kcal)**, **time duration**, and enjoy **live location tracking** – all in one sleek interface.
+**FitSyncWorkOut** is a modern fitness tracking Android app designed to monitor and display your running or walking statistics in real-time. Track **distance (KM)**, **calories burned (Kcal)**, **time duration**, and enjoy **live location tracking** – all in one sleek interface.
 
 ---
 
@@ -17,8 +17,10 @@
 
 ## 📸 Screenshots
 
-![Screenshot_2025-07-15-12-12-59-01_4f000a1a26afa31bdd0bde012be44761](https://github.com/user-attachments/assets/11ef1cbf-17cc-4bfe-86d2-cf424f408c50)
-![Screenshot_2025-07-15-12-21-07-78_4f000a1a26afa31bdd0bde012be44761](https://github.com/user-attachments/assets/efeacbfa-465a-4bbb-a543-1f167d9daf05)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/11ef1cbf-17cc-4bfe-86d2-cf424f408c50" width="300"/>
+  <img src="https://github.com/user-attachments/assets/efeacbfa-465a-4bbb-a543-1f167d9daf05" width="300"/>
+</p>
 
 ---
 
